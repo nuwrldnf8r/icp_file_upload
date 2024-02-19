@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/file_upload_backend"
+]
+resolver = "2"
