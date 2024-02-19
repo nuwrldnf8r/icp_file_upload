@@ -1,3 +1,4 @@
 service : {
-    "greet": (text) -> (text) query;
+    "upload": (blob) -> (text);
+    "get" : (text) -> (blob) query;
 }
